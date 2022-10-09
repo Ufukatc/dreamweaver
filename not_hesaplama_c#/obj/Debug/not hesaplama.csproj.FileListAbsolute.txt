@@ -1,0 +1,13 @@
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\bin\Debug\not hesaplama.exe.config
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\bin\Debug\not hesaplama.exe
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\bin\Debug\not hesaplama.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.AssemblyReference.cache
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.Form1.resources
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.Properties.Resources.resources
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.GenerateResource.cache
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.exe
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not hesaplama.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.frm2.resources
+C:\Users\aysuk\OneDrive\Masaüstü\vs\form app\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.frm3.resources
